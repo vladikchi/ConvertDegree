@@ -1,0 +1,11 @@
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Codding\C#\8. ConverterDegree\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Converter.resources
